@@ -1,10 +1,12 @@
-package com.example.formactivity;
+package com.example.formactivity.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
+
+import com.example.formactivity.R;
 
 public class FormActivity extends AppCompatActivity {
 

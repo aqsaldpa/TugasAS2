@@ -1,4 +1,4 @@
-package com.example.formactivity;
+package com.example.formactivity.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
@@ -9,6 +9,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+
+import com.example.formactivity.R;
 
 public class MainActivity2 extends AppCompatActivity {
 

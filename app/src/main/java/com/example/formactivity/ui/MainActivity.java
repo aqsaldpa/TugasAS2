@@ -1,4 +1,4 @@
-package com.example.formactivity;
+package com.example.formactivity.ui;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
@@ -13,6 +13,8 @@ import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.Spinner;
 import android.widget.Toast;
+
+import com.example.formactivity.R;
 
 public class MainActivity extends AppCompatActivity {
     Button btnSimpan,btnHapus;

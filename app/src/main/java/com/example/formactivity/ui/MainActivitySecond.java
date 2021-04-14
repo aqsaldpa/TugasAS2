@@ -1,8 +1,10 @@
-package com.example.formactivity;
+package com.example.formactivity.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.formactivity.R;
 
 public class MainActivitySecond extends AppCompatActivity {
 
